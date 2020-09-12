@@ -6,8 +6,6 @@ public class Pet {
 
 
 
-    public Pet() {
-    }
     public Pet(String name, String type) {
         setName(name);
        setType(type);
